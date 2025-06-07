@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="BS2" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
+http://luong.utako.moe/wprime/index.m3u8
